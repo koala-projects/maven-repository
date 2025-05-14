@@ -3,10 +3,11 @@
   <groupId>cn.koala</groupId>
   <artifactId>koala-web</artifactId>
   <versioning>
-    <release>2023.1.4</release>
+    <release>2023.2.0</release>
     <versions>
       <version>2023.1.4</version>
+      <version>2023.2.0</version>
     </versions>
-    <lastUpdated>20231116061742</lastUpdated>
+    <lastUpdated>20250514025526</lastUpdated>
   </versioning>
 </metadata>
